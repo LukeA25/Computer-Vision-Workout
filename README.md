@@ -7,7 +7,7 @@ You can view the source code here:
 
 ## Changing Workout
 
-In order to change the workout, you must change hte `workout` variable:
+In order to change the workout, you must change the `workout` variable:
 
 On line 11 of [main.py](/main.py), you will see the following code:
 ```python
